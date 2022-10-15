@@ -1,2 +1,2 @@
 # experiments
-[пример](./reports/pytest/README.md "Необязательная подсказка")
+[pytest](./reports/pytest/index.html "Результат автотестирования python+Selenium+pytest")
