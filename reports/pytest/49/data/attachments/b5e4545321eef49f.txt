@@ -1,0 +1,1 @@
+('css selector', 'div[class*="custom-control"] label[for="hobbies-checkbox-3"]')
